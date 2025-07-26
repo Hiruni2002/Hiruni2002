@@ -1,6 +1,4 @@
 ## Hi there 👋 I'm Hiruni Tharuka
-
-<!--
 🎓 Undergraduate Student | 💻 Developer in Training | 📸 Photography Lover
 
 ## About Me
@@ -33,6 +31,4 @@ I enjoy writing tech articles, learning notes, and idea sharing on [Medium](http
 - LinkedIn: [linkedin.com/in/hiruni-tharaka-b45624244/](#)
 - GitHub: [github.com/Hiruni2002](https://github.com/Hiruni2002)
 
-## Fun fact: ...
--->
 _Thanks for visiting my profile...! Let's build and learn together._
