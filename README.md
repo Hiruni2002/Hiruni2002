@@ -17,7 +17,7 @@ I'm a passionate learner and developer with interests in both frontend and backe
 ## 📂 Projects
 - Inventory System for a local boutique/shop — designed with OOP principles  
 - Student Management System (Java, JSP, Servlets, DAO, MVC)
-- Event Registration System (JSP-based web app)
+- Event Registration System (JSP-based web app) 
 - Photography Gallery Website (HTML/CSS/JS)
 
 ## Currently Learning
