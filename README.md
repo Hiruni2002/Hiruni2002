@@ -28,7 +28,6 @@ I enjoy writing tech articles, learning notes, and idea sharing on [Medium](http
 
 ## 📫 Reach Me
 - Email: hirunutharaka@gmail.com
-- LinkedIn: [linkedin.com/in/hiruni-tharaka-b45624244/](#)
-- GitHub: [github.com/Hiruni2002](https://github.com/Hiruni2002)
+- LinkedIn:
 
 _Thanks for visiting my profile...! Let's build and learn together._
